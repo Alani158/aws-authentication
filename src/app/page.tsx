@@ -20,9 +20,7 @@ function App() {
   );
 }
 export default withAuthenticator(App)
-// AKIA5DZTMHCLEQGBA4XG
 
-// K7uE69ahGP9mvraIvGuI5Hw/m/hQUIn3RwZ9Gycl
 
 // | Build Command: npm.cmd run-script build
 // | Start Command: npm.cmd run-script start
